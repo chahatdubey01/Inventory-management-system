@@ -1,4 +1,4 @@
-# 📦 Inventory Management System
+# 🔧Inventory Management System
 
 A simple and efficient Python-based Inventory Management System designed to manage products, stock, and sales for small businesses.
 
